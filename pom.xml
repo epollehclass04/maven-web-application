@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Nfesta Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.202.165.52:7000/repository/boa-snapshot/</url>
+	      <url>http://34.204.18.27:7000/repository/boa-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
